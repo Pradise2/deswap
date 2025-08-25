@@ -1,7 +1,7 @@
 
 ---
 
-# DeSwap Protocol Interface
+# DeSwap Protocol Interface using uniswap 
 
 DeSwap is an open-source frontend interface for a decentralized exchange protocol. This project provides all the necessary components to interact with a decentralized liquidity protocol, allowing users to swap tokens, add or remove liquidity to pools, and manage their positions.
 
